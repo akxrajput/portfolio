@@ -1,9 +1,9 @@
 import React, { useRef } from 'react'
-import anzo from '../assets/anzo.avif'
+
 import Page1Bottom from '../components/Page1Bottom'
-import bg from '../assets/bg2.png'
+
 import TiltText from '../components/TiltText'
-import anzo2 from '../assets/anzo-style.JPG'
+
 import anzo3 from '../assets/anzo-style1-contrast.JPG'
 
 
