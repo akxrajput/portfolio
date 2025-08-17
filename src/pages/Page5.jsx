@@ -54,7 +54,7 @@ const Page5 = () => {
       {/* ✅ Resume Button (Middle Right) */}
      <div className="absolute right-50 top-1/2 -translate-y-1/2 z-20 p-20">
   <a
-    href="/resume-akx.pdf" // Replace with your actual resume path
+    href="/port-resume.pdf" // Replace with your actual resume path
     download="Akshay-Girase-Resume.pdf"
     className="flex items-center gap-2 bg-cyan-500 hover:bg-cyan-400 text-black font-light px-20 py-3 rounded-lg shadow-lg transition duration-300"
   >
