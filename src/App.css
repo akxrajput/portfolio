@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+
+
+@keyframes dotBounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+
+.animate-dot {
+  animation: dotBounce 1s ease-in-out infinite;
+}
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+#page-tilt{
+  position: relative;
+  perspective: 1000px;
+}
+
+#tiltdiv{
+  
+  width: fit-content;
+  
+}
+
+.section2{
+  position: relative;
+  perspective: 1000px;
+}
+
+#rotateText{
+  transform-origin: 100% 60%;
+}
